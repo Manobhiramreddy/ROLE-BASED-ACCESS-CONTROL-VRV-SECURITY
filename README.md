@@ -183,7 +183,7 @@ Feel free to fork the repository and submit pull requests. Contributions for add
 ---
 **Author**  
 **[Manobhiram Reddy]**  
-- GitHub: [Manobhiramreddy]((https://github.com/Manobhiramreddy) 
+- GitHub: [Manobhiramreddy](https://github.com/Manobhiramreddy) 
 - LinkedIn: [Manobhiram Reddy](https://www.linkedin.com/in/bodapatla-manobhiramreddy/)  
 
 ---
