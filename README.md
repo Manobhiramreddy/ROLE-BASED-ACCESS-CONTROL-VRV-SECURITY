@@ -183,14 +183,9 @@ Feel free to fork the repository and submit pull requests. Contributions for add
 ---
 **Author**  
 **[Manobhiram Reddy]**  
-- GitHub: [Manobhiramreddy]([https://github.com/your-username](https://github.com/Manobhiramreddy))  
-- LinkedIn: [Manobhiram Reddy]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bodapatla-manobhiramreddy/))  
+- GitHub: [Manobhiramreddy]((https://github.com/Manobhiramreddy) 
+- LinkedIn: [Manobhiram Reddy](https://www.linkedin.com/in/bodapatla-manobhiramreddy/)  
 
 ---
-
-## **Acknowledgments**  
+**Acknowledgments**  
 This project is part of the **VRV Security Frontend Developer Intern Assignment**. Special thanks to VRV Security for providing an opportunity to showcase RBAC concepts in practice.  
-
----
-
-This README ensures clarity, includes setup instructions, explains core features, and provides a professional touch suitable for an internship assignment.
